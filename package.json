@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test for openshift",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Decus12/openshifttest.git"
+  },
+  "author": "Henri Hietala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Decus12/openshifttest/issues"
+  },
+  "homepage": "https://github.com/Decus12/openshifttest#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
